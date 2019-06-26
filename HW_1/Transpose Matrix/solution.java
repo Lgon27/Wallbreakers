@@ -1,4 +1,8 @@
 /*
+   Author: Luis Gonzalez - Wallbreakers Cohort #3
+   Github: https://github.com/Lgon27
+   LeetCode: https://leetcode.com/luprog138/
+
 Array[Number of arrays][number of elements in each array]
 Example: [[1,2,3],[,4,5,6],[7,8,9]]
                 
