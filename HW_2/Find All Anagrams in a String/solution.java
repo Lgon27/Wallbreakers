@@ -1,4 +1,9 @@
 //Importing hashmap essentials
+/*
+    Author: Luis Gonzalez - Wallbreakers Cohort #3
+    Github: https://github.com/Lgon27
+    LeetCode: https://leetcode.com/luprog138/
+*/
 import java.util.*; 
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
