@@ -42,4 +42,5 @@ class Solution {
         
     Analysis:
         This algorithm has a time complexity of O(N + 2J) where N is the length of String s and J is the length of String t
+        This algorithm has a space complexity of (N + J) where N is the number of elements in sMap and J is the number of elements in tMap
 */
